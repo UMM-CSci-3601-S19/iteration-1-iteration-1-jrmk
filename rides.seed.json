@@ -3,7 +3,7 @@
     "_id": {
       "oid": "5c899e46a3a0f4fb8aa7fad0"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Honda Civic",
     "mileage": 24,
@@ -11,13 +11,13 @@
     "start_location": "Morris",
     "destination": "Nutrioso Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e464be226d9c9e4f0b6"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Ford Ranger",
     "mileage": 16,
@@ -25,13 +25,13 @@
     "start_location": "Morris",
     "destination": "Herbster Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e464cbb3f5cf3f1b205"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Honda Civic",
     "mileage": 40,
@@ -39,13 +39,13 @@
     "start_location": "Morris",
     "destination": "Morgandale Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e468d0c7c2cedcccbc9"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Kia Sedona",
     "mileage": 35,
@@ -53,13 +53,13 @@
     "start_location": "Morris",
     "destination": "Tyro Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4630aa9792bafa9291"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 17,
@@ -67,13 +67,13 @@
     "start_location": "Morris",
     "destination": "Aurora Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46019de0c04f042d8e"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Ford Ranger",
     "mileage": 40,
@@ -81,13 +81,13 @@
     "start_location": "Morris",
     "destination": "Richville Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e465dc6732ccc96a1e6"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Ford Ranger",
     "mileage": 15,
@@ -95,13 +95,13 @@
     "start_location": "Morris",
     "destination": "Warren Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46dd76fcd9e6296c2a"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Chevy Impala",
     "mileage": 11,
@@ -109,13 +109,13 @@
     "start_location": "Morris",
     "destination": "Rehrersburg Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4630d27ce117602a08"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 36,
@@ -123,13 +123,13 @@
     "start_location": "Morris",
     "destination": "Crucible Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46f1418ce515f0bbc3"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Chevy Impala",
     "mileage": 12,
@@ -137,13 +137,13 @@
     "start_location": "Morris",
     "destination": "Weedville Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4641b8c16dc171423b"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Honda Civic",
     "mileage": 36,
@@ -151,13 +151,13 @@
     "start_location": "Morris",
     "destination": "Innsbrook Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4651272f352751034c"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Chevy Impala",
     "mileage": 37,
@@ -165,13 +165,13 @@
     "start_location": "Morris",
     "destination": "Jeff Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46b693ce03246e29c6"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Kia Sedona",
     "mileage": 29,
@@ -179,13 +179,13 @@
     "start_location": "Morris",
     "destination": "Rose Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46a009518d8d78dfe3"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 30,
@@ -193,13 +193,13 @@
     "start_location": "Morris",
     "destination": "Grantville Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46e8a74039c6f0bde2"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Chevy Impala",
     "mileage": 30,
@@ -207,13 +207,13 @@
     "start_location": "Morris",
     "destination": "Trinway Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46f9405e744b19e607"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Honda Civic",
     "mileage": 15,
@@ -221,13 +221,13 @@
     "start_location": "Morris",
     "destination": "Caron Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46d60ae68b430cc0b4"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Kia Sedona",
     "mileage": 31,
@@ -235,13 +235,13 @@
     "start_location": "Morris",
     "destination": "Kula Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4607b6ea7be08f6fb5"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Chevy Impala",
     "mileage": 39,
@@ -249,13 +249,13 @@
     "start_location": "Morris",
     "destination": "Reno Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46ea84f46be6cd018f"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 39,
@@ -263,13 +263,13 @@
     "start_location": "Morris",
     "destination": "Noblestown Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e463a22508d13af483a"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 21,
@@ -277,13 +277,13 @@
     "start_location": "Morris",
     "destination": "Needmore Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e462bd1595eb30332b4"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Chevy Impala",
     "mileage": 21,
@@ -291,13 +291,13 @@
     "start_location": "Morris",
     "destination": "Deltaville Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46cbede577df207a50"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Kia Sedona",
     "mileage": 31,
@@ -305,13 +305,13 @@
     "start_location": "Morris",
     "destination": "Loveland Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4608f68e1ac9192b49"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 18,
@@ -319,13 +319,13 @@
     "start_location": "Morris",
     "destination": "Fairlee Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46be67ff4e231cc734"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Chevy Impala",
     "mileage": 23,
@@ -333,13 +333,13 @@
     "start_location": "Morris",
     "destination": "Carbonville Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e469020ad476eb14b6c"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Chevy Impala",
     "mileage": 28,
@@ -347,13 +347,13 @@
     "start_location": "Morris",
     "destination": "Riner Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4624ca285a82bad999"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Ford Ranger",
     "mileage": 32,
@@ -361,13 +361,13 @@
     "start_location": "Morris",
     "destination": "Rockbridge Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4674a6a4dd9102aab3"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 20,
@@ -375,13 +375,13 @@
     "start_location": "Morris",
     "destination": "Croom Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46586d2f138642f1c3"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Ford Ranger",
     "mileage": 26,
@@ -389,13 +389,13 @@
     "start_location": "Morris",
     "destination": "Whitehaven Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46cbef00f0a77aa90b"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Ford Ranger",
     "mileage": 40,
@@ -403,13 +403,13 @@
     "start_location": "Morris",
     "destination": "Homeland Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e468c13841639713322"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Honda Civic",
     "mileage": 12,
@@ -417,13 +417,13 @@
     "start_location": "Morris",
     "destination": "Hickory Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46a3d5e9c07aa095aa"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Honda Civic",
     "mileage": 16,
@@ -431,13 +431,13 @@
     "start_location": "Morris",
     "destination": "Dargan Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46cec18041382835c1"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Ford Ranger",
     "mileage": 32,
@@ -445,13 +445,13 @@
     "start_location": "Morris",
     "destination": "Carlton Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e463cb04d8a8aea2654"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Kia Sedona",
     "mileage": 35,
@@ -459,13 +459,13 @@
     "start_location": "Morris",
     "destination": "Heil Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4673f15e8b77a5f6d4"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Chevy Impala",
     "mileage": 21,
@@ -473,13 +473,13 @@
     "start_location": "Morris",
     "destination": "Clara Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46fcafe6b1bc54f83e"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 25,
@@ -487,13 +487,13 @@
     "start_location": "Morris",
     "destination": "Bethpage Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e465ac4affc44673d9a"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Chevy Impala",
     "mileage": 14,
@@ -501,13 +501,13 @@
     "start_location": "Morris",
     "destination": "Haena Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46a5d71ea17660fa03"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Kia Sedona",
     "mileage": 21,
@@ -515,13 +515,13 @@
     "start_location": "Morris",
     "destination": "Gadsden Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46e3c56ae71c5f41eb"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Kia Sedona",
     "mileage": 23,
@@ -529,13 +529,13 @@
     "start_location": "Morris",
     "destination": "Bedias Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46e0201cd3754cb29c"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Ford Ranger",
     "mileage": 40,
@@ -543,13 +543,13 @@
     "start_location": "Morris",
     "destination": "Sexton Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e469c69e6213151bb99"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Chevy Impala",
     "mileage": 23,
@@ -557,13 +557,13 @@
     "start_location": "Morris",
     "destination": "Ypsilanti Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46c21297ac6e247a30"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Chevy Impala",
     "mileage": 25,
@@ -571,13 +571,13 @@
     "start_location": "Morris",
     "destination": "Abiquiu Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46f5248a1c975d7f76"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Kia Sedona",
     "mileage": 15,
@@ -585,13 +585,13 @@
     "start_location": "Morris",
     "destination": "Berwind Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46b7950b2aab158100"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Kia Sedona",
     "mileage": 14,
@@ -599,13 +599,13 @@
     "start_location": "Morris",
     "destination": "Bartonsville Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4680ce128466779ce0"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Kia Sedona",
     "mileage": 27,
@@ -613,13 +613,13 @@
     "start_location": "Morris",
     "destination": "Bergoo Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46a1374d7b093665cc"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Chevy Impala",
     "mileage": 15,
@@ -627,13 +627,13 @@
     "start_location": "Morris",
     "destination": "Calpine Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e465933642d4d90c6ba"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Kia Sedona",
     "mileage": 26,
@@ -641,13 +641,13 @@
     "start_location": "Morris",
     "destination": "Windsor Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e467ca2a37b532ee97f"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Chevy Impala",
     "mileage": 21,
@@ -655,13 +655,13 @@
     "start_location": "Morris",
     "destination": "Corriganville Minnesota",
     "hasDriver": false,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e460c65870adcce2176"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": true,
     "vehicle": "Chevy Impala",
     "mileage": 20,
@@ -669,13 +669,13 @@
     "start_location": "Morris",
     "destination": "Gardiner Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e4623ce97cce0bcdaaf"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 29,
@@ -683,13 +683,13 @@
     "start_location": "Morris",
     "destination": "Brutus Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   },
   {
     "_id": {
       "oid": "5c899e46779036ecb69cf95a"
     },
-    "driver": "Roen",
+    "driver": "Joe",
     "riders": false,
     "vehicle": "Honda Civic",
     "mileage": 21,
@@ -697,6 +697,6 @@
     "start_location": "Morris",
     "destination": "Woodlake Minnesota",
     "hasDriver": true,
-    "tags": "sample tag"
+    "tags": "sample, tag"
   }
 ]
